@@ -2,7 +2,7 @@
 
 ## **Partners/Intermediaries**
  
-*Action*: Invite formal organizational partners to join DSX and to act as community intermediaries — points of contact for communities who need capacity and capacity builders who want to offer assistance. This will be U.S.-only for now.  They will: 
+*Action*: Invite formal partners to join DSX and to act as community intermediaries — points of contact for communities who need capacity and capacity builders who want to offer assistance. Partners would be organizations and individuals or networks representing distinct communities. This will be U.S.-only for now.  They will: 
 
 	- Help identify and route requests for assistance
 	- Identify funding to move resources to communities and trainers
