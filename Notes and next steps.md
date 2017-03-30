@@ -1,7 +1,3 @@
-# Notes and next steps 
-#DSX/concept
-#DSX/group
-
 1. **Partners/Intermediaries**
  
 *Action*: Invite formal organizational partners to join DSX and to act as community intermediaries — points of contact for communities who need capacity and capacity builders who want to offer assistance. This will be U.S.-only for now.  They will: 
@@ -92,9 +88,3 @@
 
 	- Develop our own internal threat model that can guide the development of our DSX digital platform
 	-  
-
-**Next meeting**
-
-*TBD*: May 2 or 3 at Stanford
-
-#Stanford
