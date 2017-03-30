@@ -80,5 +80,5 @@
 	- Documentation hub 
 	- Content - writing about standards, threat modeling, processes, recommendations (knowledgebase)
 
-**TBD:**: Develop our own internal threat model that can guide the development of our DSX digital platform
+*TBD:*: Develop our own internal threat model that can guide the development of our DSX digital platform
   
