@@ -1,4 +1,6 @@
-# **Partners/Intermediaries**
+# DSX next steps and workplan, March 2017
+
+## **Partners/Intermediaries**
  
 *Action*: Invite formal organizational partners to join DSX and to act as community intermediaries — points of contact for communities who need capacity and capacity builders who want to offer assistance. This will be U.S.-only for now.  They will: 
 
@@ -15,7 +17,7 @@
 
 *Tech* (TBD): Simple, secure, and possibly off-the-shelf database/CRM to manage partner data (community involvement, internal expertise,  unique skills, unique needs)
 
-# **Capacity builders** 
+## **Capacity builders** 
 
 *Action*:  Invite capacity builders and trainers to offer assistance 
 
@@ -26,7 +28,7 @@
 	- DSX staff follow up in person, connect orgs to capacity builders
 	- CRM to register background, history, expertise, and demographics to suggest connections to those seeking assistance 
 
-# **Orgs seeking assistance** 
+## **Orgs seeking assistance** 
 
 *Action*: Invite organizations and communities to use DSX to seek out capacity building assistance and digital security training (it is NOT a rapid response helpline)
 
@@ -35,7 +37,7 @@
 	- Intake form for those seeking assistance, with simple questionnaire to identify needs
 	- CRM to register background, history, expertise, and demographics to suggest connections to capacity builders  
 
-# **Trust, quality, and standards**
+## **Trust, quality, and standards**
  
 *Action*: Establish the “DSX Model,” including:
      
@@ -55,7 +57,7 @@
 
 *TBD*: Resources and plan to place capacity builders for long-term assistance, making sure things stick 
 
-# **Curriculum development and documentation**
+## **Curriculum development and documentation**
  
 *Action*: Work with the community and DSX network to create a more centralized curriculum or guidelines for best practices. 
 
@@ -68,7 +70,7 @@
 
 *How*: Bring on DSX staff to establish and manage documentation and outreach program. 
 
-# **Website/platform**
+## **Website/platform**
 
 *Action:* Develop plan for website that houses all of the above pieces and communicates the mission of the DSX project  
 
