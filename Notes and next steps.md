@@ -1,19 +1,19 @@
 # **Partners/Intermediaries**
  
-## *Action*: Invite formal organizational partners to join DSX and to act as community intermediaries — points of contact for communities who need capacity and capacity builders who want to offer assistance. This will be U.S.-only for now.  They will: 
+*Action*: Invite formal organizational partners to join DSX and to act as community intermediaries — points of contact for communities who need capacity and capacity builders who want to offer assistance. This will be U.S.-only for now.  They will: 
 
 	- Help identify and route requests for assistance
 	- Identify funding to move resources to communities and trainers
 	- Connect  tech-savvy people in communities and orgs to capacity builders and incoming orgs seeking assistance 
 	- DSX staff act as traffic cops/gardeners
 
-## *How*: Build a process for bringing on partners 
+*How*: Build a process for bringing on partners 
 
 	- Membership agreement for partner orgs and agreement on approach, curriculum, practices, Hippocratic oath, guiding principles 
 	- Each partner org will establish a point of contact who will connect to those seeking assistance and those seeking to assist
 	- Respecting capacity issues, minimize partner time spent
 
-## *Tech* (TBD): Simple, secure, and possibly off-the-shelf database/CRM to manage partner data (community involvement, internal expertise,  unique skills, unique needs)
+*Tech* (TBD): Simple, secure, and possibly off-the-shelf database/CRM to manage partner data (community involvement, internal expertise,  unique skills, unique needs)
 
 # **Capacity builders** 
 
@@ -26,7 +26,7 @@
 	- DSX staff follow up in person, connect orgs to capacity builders
 	- CRM to register background, history, expertise, and demographics to suggest connections to those seeking assistance 
 
-3. **Orgs seeking assistance** 
+# **Orgs seeking assistance** 
 
 *Action*: Invite organizations and communities to use DSX to seek out capacity building assistance and digital security training (it is NOT a rapid response helpline)
 
@@ -35,7 +35,7 @@
 	- Intake form for those seeking assistance, with simple questionnaire to identify needs
 	- CRM to register background, history, expertise, and demographics to suggest connections to capacity builders  
 
-4. **Trust, quality, and standards**
+# **Trust, quality, and standards**
  
 *Action*: Establish the “DSX Model,” including:
      
@@ -55,7 +55,7 @@
 
 *TBD*: Resources and plan to place capacity builders for long-term assistance, making sure things stick 
 
-5. **Curriculum development and documentation**
+# **Curriculum development and documentation**
  
 *Action*: Work with the community and DSX network to create a more centralized curriculum or guidelines for best practices. 
 
@@ -68,7 +68,7 @@
 
 *How*: Bring on DSX staff to establish and manage documentation and outreach program. 
 
-6. **Website/platform**
+# **Website/platform**
 
 *Action:* Develop plan for website that houses all of the above pieces and communicates the mission of the DSX project  
 
