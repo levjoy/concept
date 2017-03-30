@@ -1,21 +1,21 @@
-1. **Partners/Intermediaries**
+# **Partners/Intermediaries**
  
-*Action*: Invite formal organizational partners to join DSX and to act as community intermediaries — points of contact for communities who need capacity and capacity builders who want to offer assistance. This will be U.S.-only for now.  They will: 
+## *Action*: Invite formal organizational partners to join DSX and to act as community intermediaries — points of contact for communities who need capacity and capacity builders who want to offer assistance. This will be U.S.-only for now.  They will: 
 
 	- Help identify and route requests for assistance
 	- Identify funding to move resources to communities and trainers
 	- Connect  tech-savvy people in communities and orgs to capacity builders and incoming orgs seeking assistance 
 	- DSX staff act as traffic cops/gardeners
 
-*How*: Build a process for bringing on partners 
+## *How*: Build a process for bringing on partners 
 
 	- Membership agreement for partner orgs and agreement on approach, curriculum, practices, Hippocratic oath, guiding principles 
 	- Each partner org will establish a point of contact who will connect to those seeking assistance and those seeking to assist
 	- Respecting capacity issues, minimize partner time spent
 
-*Tech* (TBD): Simple, secure, and possibly off-the-shelf database/CRM to manage partner data (community involvement, internal expertise,  unique skills, unique needs)
+## *Tech* (TBD): Simple, secure, and possibly off-the-shelf database/CRM to manage partner data (community involvement, internal expertise,  unique skills, unique needs)
 
-2. **Capacity builders** 
+# **Capacity builders** 
 
 *Action*:  Invite capacity builders and trainers to offer assistance 
 
