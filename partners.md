@@ -14,9 +14,9 @@ To be a formal partner, you must be one of the following:
 ## What do DSX partners do? 
 In practical terms, DSX formal partners: 
 
-- Identify requests for assistance and route them through the DSX network 
-- Through the DSX, connect tech-savvy people in communities and organizations to capacity builders and incoming orgs seeking assistance
-- Develop and implement a strict vetting system for volunteer capacity builders to ensure technical expertise and cultural sensitivity 
-- Work with other DSX partners to identify funding opportunities to move resources to communities and trainers
+- Identify requests for assistance and route them through the DSX network. 
+- Through the DSX, connect tech-savvy people in communities and organizations to capacity builders and incoming orgs seeking assistance.
+- Develop and implement a strict vetting system for volunteer capacity builders to ensure technical expertise and cultural sensitivity. 
+- Work with other DSX partners to identify funding opportunities to move resources to communities and trainers.
 - Collaborate on a set of guiding principles and processes underlying the DSX platform, including its approach to curriculum development, it’s strategy for connecting those in need with qualified assistance, and its mission to build digital security capacity for frontline communities and civil society organizations.  
 - Pledge to “do no harm.”
