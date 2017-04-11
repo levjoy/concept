@@ -7,7 +7,7 @@ In addition, formal partners collaborate to verify and vet incoming capacity bui
 
 To be a formal partner, you must be one of the following: 
 
-- A movement or technology organization working with frontline communities, including but not limited to African American, South Asian, Muslim American, Latino, immigrant, refugee, LGBTQ, trans, women’s rights, journalist, religious minority, and other communities; 
+- A movement or technology organization working with frontline communities, including but not limited to African American, South Asian, Muslim American, Latino, immigrant, refugee, LGBTQ, women’s rights, journalists, religious minorities, and other communities; 
 - Cohorts and networks of loosely-connected individuals working within and on behalf of these communities; 
 - Individual technology experts, capacity builders, or movement leaders with deep connections to either tech communities or frontline communities. 
 
