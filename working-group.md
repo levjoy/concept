@@ -10,7 +10,7 @@
 
 **Harlo Holmes,** [Freedom of the Press Foundation](http://freedom.press/)
 
-**Sara Haghdoosti** [Mozilla Foundation](http://mozilla.org/)
+**Sara Haghdoosti,** [Mozilla Foundation](http://mozilla.org/)
 
 **Matt Mitchell,** [https://about.me/geminiimatt](https://about.me/geminiimatt)
 
@@ -22,6 +22,6 @@
 
 **Jamie Tomasello**, [Duo](https://duo.com/) security, former Access Now Technology Director
 
-**Danny O’Brien**, [https://www.eff.org/](https://www.eff.org/)
+**Danny O’Brien**, [Electronic Frontier Foundation](https://www.eff.org/)
 
 **Nathan Freitas,** [http://guardianproject.info/](http://guardianproject.info/) & Tibet Action Institute
