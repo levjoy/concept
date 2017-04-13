@@ -19,4 +19,4 @@ In practical terms, DSX formal partners:
 - Develop and implement a strict vetting system for volunteer capacity builders to ensure technical expertise and cultural sensitivity. 
 - Work with other DSX partners to identify funding opportunities to move resources to communities and trainers.
 - Collaborate on a set of guiding principles and processes underlying the DSX platform, including its approach to curriculum development, it’s strategy for connecting those in need with qualified assistance, and its mission to build digital security capacity for frontline communities and civil society organizations.  
-- Pledge to “do no harm.”
+- Pledge to “do no harm.” [explicit description of expectations to come]
