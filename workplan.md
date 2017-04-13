@@ -2,19 +2,11 @@
 
 ## **Partners/Intermediaries**
  
-*Goal*: 
-
-Bring on formal partners to join DSX and to act as community intermediaries — points of contact for communities who need capacity and capacity builders who want to offer assistance. Partners would be organizations and individuals or networks representing distinct communities. This will be U.S.-only for now. We will do our best to minimize time spent by partners. 
-
-They will: 
-
-- Help identify and route requests for assistance
-- Identify funding to move resources to communities and trainers
-- Connect  tech-savvy people in communities and orgs to capacity builders and incoming orgs seeking assistance 
+Draft terms of partnership for formal partners is [here](https://github.com/digital-security-exchange/concept/blob/master/partners.md).
 
 *To do*: 
 
-- Build a process for bringing on partners. 
+- Finalize process for bringing on partners. 
 - Draft a membership agreement for partner orgs and agreement on approach, curriculum, practices, Hippocratic oath, guiding principles 
 - Establish a point of contact for each partner
 
