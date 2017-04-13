@@ -12,7 +12,7 @@
 
 **Sara Haghdoosti,** [Mozilla Foundation](http://mozilla.org/)
 
-**Matt Mitchell,** [https://about.me/geminiimatt](https://about.me/geminiimatt)
+**Matt Mitchell,** [Crypto Harlem](https://about.me/geminiimatt)
 
 **Deanna Zandt**, [Lux Digital](http://luxdigital.com/)
 
