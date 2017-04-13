@@ -1,10 +1,10 @@
 # DSX working group, April 2017 
 
-**Malkia Cyril,** [http://mediajustice.org/](http://mediajustice.org/)
+**Malkia Cyril,** [Center for Media Justice](http://mediajustice.org/)
 
 **Ethan Zuckerman,** Center for Civic Media at MIT
 
-**Cayden Mak,** [http://18millionrising.org/](http://18millionrising.org/)
+**Cayden Mak,** [18 Million Rising](http://18millionrising.org/)
 
 **Bruce Schneier,** Resilient Systems/IBM
 
@@ -14,7 +14,7 @@
 
 **Matt Mitchell,** [https://about.me/geminiimatt](https://about.me/geminiimatt)
 
-**Deanna Zandt**, [http://luxdigital.com/](http://luxdigital.com/)
+**Deanna Zandt**, [Lux Digital](http://luxdigital.com/)
 
 **Matt Holland**, Technology Strategist
 
@@ -24,4 +24,4 @@
 
 **Danny O’Brien**, [Electronic Frontier Foundation](https://www.eff.org/)
 
-**Nathan Freitas,** [http://guardianproject.info/](http://guardianproject.info/) & Tibet Action Institute
+**Nathan Freitas,** [Guardian Projet](http://guardianproject.info/) & [Tibet Action Institute](https://tibetaction.net/)
