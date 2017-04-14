@@ -2,7 +2,7 @@
 
 **Josh Levy,** [Digital Security Exchange](https://www.digitalsecurityexchange) and Stanford's [Digital Civil Society Lab](https://pacscenter.stanford.edu/digital-civil-society/) 
 
-**Nathan Freitas,** [Guardian Projet](http://guardianproject.info/) & [Tibet Action Institute](https://tibetaction.net/)
+**Nathan Freitas,** [Guardian Project](http://guardianproject.info/) & [Tibet Action Institute](https://tibetaction.net/)
 
 **Malkia Cyril,** [Center for Media Justice](http://mediajustice.org/)
 
