@@ -1,5 +1,9 @@
 # DSX working group, April 2017 
 
+**Josh Levy,** [Digital Security Exchange][(https://www.digitalsecurityexchange) and Stanford's [Digital Civil Society Lab](https://pacscenter.stanford.edu/digital-civil-society/) 
+
+**Nathan Freitas,** [Guardian Projet](http://guardianproject.info/) & [Tibet Action Institute](https://tibetaction.net/)
+
 **Malkia Cyril,** [Center for Media Justice](http://mediajustice.org/)
 
 **Ethan Zuckerman,** Center for Civic Media at MIT
@@ -23,5 +27,3 @@
 **Jamie Tomasello**, [Duo](https://duo.com/) security, former Access Now Technology Director
 
 **Danny O’Brien**, [Electronic Frontier Foundation](https://www.eff.org/)
-
-**Nathan Freitas,** [Guardian Projet](http://guardianproject.info/) & [Tibet Action Institute](https://tibetaction.net/)
