@@ -1,6 +1,6 @@
 # DSX working group, April 2017 
 
-**Josh Levy,** [Digital Security Exchange][(https://www.digitalsecurityexchange) and Stanford's [Digital Civil Society Lab](https://pacscenter.stanford.edu/digital-civil-society/) 
+**Josh Levy,** [Digital Security Exchange](https://www.digitalsecurityexchange) and Stanford's [Digital Civil Society Lab](https://pacscenter.stanford.edu/digital-civil-society/) 
 
 **Nathan Freitas,** [Guardian Projet](http://guardianproject.info/) & [Tibet Action Institute](https://tibetaction.net/)
 
