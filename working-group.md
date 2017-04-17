@@ -26,4 +26,4 @@
 
 **Deanna Zandt**, [Lux Digital](http://luxdigital.com/)
 
-**Ethan Zuckerman,** Center for Civic Media at MIT
+**Ethan Zuckerman,** [Center for Civic Media at MIT](https://civic.mit.edu/)
