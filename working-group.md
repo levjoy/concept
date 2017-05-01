@@ -20,6 +20,8 @@
 
 **Danny O’Brien**, [Electronic Frontier Foundation](https://www.eff.org/)
 
+**Mariana Ruiz**, [Kairos Fellowship)(http://www.kairosfellows.org/)
+
 **Bruce Schneier,** Resilient Systems/IBM
 
 **Jamie Tomasello**, [Duo](https://duo.com/) security, former Access Now Technology Director
