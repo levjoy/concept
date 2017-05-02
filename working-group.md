@@ -20,7 +20,7 @@
 
 **Danny O’Brien**, [Electronic Frontier Foundation](https://www.eff.org/)
 
-**Mariana Ruiz**, [Kairos Fellowship)(http://www.kairosfellows.org/)
+**Mariana Ruiz**, [Kairos Fellowship](http://www.kairosfellows.org/)
 
 **Bruce Schneier,** Resilient Systems/IBM
 
